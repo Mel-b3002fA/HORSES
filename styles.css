@@ -1,0 +1,28 @@
+.bg-pic{
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    background-image: url(./igm/pexels-suzyhazelwood-1438142.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.landing{
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.landing-main{
+    color: black;
+    font-size: 30px;
+    margin-left: 0.7vw;
+}
+
+.landing-div2{
+    display: flex;
+    flex-direction: row;
+    width: ;/* how to specify that it has to be the full with of parent element */
+}
